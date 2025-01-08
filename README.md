@@ -64,7 +64,7 @@ Your project should now be running locally. Open your browser and go to `http://
 2. **Open the project in your code editor**:
     - Launch your preferred code editor (e.g., Visual Studio Code, Sublime Text, Atom).
     - Navigate to the project folder and open it.
-3. **Explore or modify the project** by editing `App.jsx` or any of the `*.jsx` file(s) in the components folder file. You can experiment with different aspects of the project by making changes here.
+3. **Explore or modify the project** by editing `App.jsx` or any of the `*.jsx` file(s) in the components folder. You can experiment with different aspects of the project by making changes here.
 4. **Preview your changes**:
     - After editing the `*.jsx` file(s), simply view the browser to see the changes reflected.
 
